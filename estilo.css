@@ -1,0 +1,233 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.topo{
+background-color: #604820;
+display: flex;
+height: 8vh;
+color: #604820;
+gap: 10px;
+img{
+    margin-left: 30px;
+    margin-right: 450px;
+    width: 55px;
+}
+a{
+    text-decoration: none;
+    color: tan;
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    left: 500px;
+    top: 15px;
+}
+p{
+    margin-top: 7px;
+    box-shadow: black;
+}
+
+
+
+}
+.parallax{
+    height: 800px;
+    background-image: url(parallax-imagem1.png);
+    background-attachment: fixed;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    h1{
+       
+        text-align: center;
+        color: white;
+        font-size: 75px;
+        position: relative;
+        font-family:'Times New Roman', Times, serif;
+        padding-top: 350px;
+    }
+}
+.topo2{
+    text-align: center;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    h2{
+        color:#604820;
+    }
+    p{
+        padding-top: 30px;
+        margin-right: 300px;
+        margin-left: 300px;
+        
+    }
+}
+.parallax2{
+    height: 300px;
+    background-image: url(parallax-imagem2.jpg);
+    background-attachment: fixed;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    h3{
+    background-color: #604820;
+padding: 6px;
+    left: 630px;
+width: 330px;
+        text-align: center;
+        color: white;
+        position: relative;
+        top: 130px;
+    }
+}
+.topo3{
+    text-align: center;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    h2{
+        color:#604820;
+    }
+    p{
+        padding-top: 30px;
+        margin-right: 300px;
+        margin-left: 300px;
+        
+    }
+}
+.parallax3{
+    height: 300px;
+    background-image: url(parallax-imagem3.jpg);
+    background-attachment: fixed;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    h3{
+    background-color: #604820;
+    padding: 6px;
+        left: 630px;
+    width: 330px;
+            text-align: center;
+            color: white;
+            position: relative;
+            top: 130px;
+}
+}
+.topo4{
+    text-align: center;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    h2{
+        color:#604820;
+    }
+    p{
+        padding-top: 30px;
+        margin-right: 300px;
+        margin-left: 300px;
+        
+    }
+}
+.parallax4{
+    height: 800px;
+    background-image: url(parallax-imagem4.png);
+    background-attachment: fixed;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 80px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    h2{
+        text-align: center;
+        color: white;
+        padding-bottom: 80px;
+        background-color: #604820;
+        width: 330px;
+        padding: 6px;
+        position: relative;
+        left: 620px;
+        margin-bottom: 30px;
+    }
+    p{
+          text-align: center;
+        color: white;
+        padding-bottom: 80px;
+        background-color: #604820;
+        width: 330px;
+        padding: 6px;
+        position: relative;
+        left: 620px;
+        margin-top: 30px;
+    }
+}
+.funcionamento{
+    background-image: url(cafeteria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 50px;
+    h2{
+        text-align: center;
+        color: white;
+        padding-bottom: 80px;
+        
+    }
+    h3{
+        color: white;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-bottom: 5px;
+        text-align: center;
+        
+        
+
+}
+
+
+}
+.horario{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    
+    text-align: left;
+    text-align: right;
+   
+}
+
+
+.final{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: white;
+
+    text-align: center;
+}
+.span1{
+margin-left: 1380px;
+}
+.span2{
+margin-left: 1370px;
+}
+.span3{
+margin-left: 1359px;
+}
+.span4{
+ margin-left: 1365px;
+}
+.span5{
+ margin-left: 1375px;
+}
+.span6{
+ margin-left: 1360px;
+}
+.span7{
+ margin-left: 1350px;
+}
